@@ -45,7 +45,3 @@ The system has been tested in a simulated trading environment. Below are some sc
 
 - Ensure the Python server is running before deploying the MQL5 bot.
 - Regularly update `predictions.csv` to maintain accurate predictions.
-
-## License
-
-This project is licensed under the MIT License.
