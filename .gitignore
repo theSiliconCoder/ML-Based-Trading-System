@@ -1,0 +1,7 @@
+# Ignore compiled MQL5 files
+*.ex5
+
+# Ignore text files
+*.txt
+
+.github
